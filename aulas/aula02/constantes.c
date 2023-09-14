@@ -8,6 +8,7 @@ int main(){
 
   const int VERDADEIRO =  1;
   // VERDADEIRO = 
+  
 
   return 0;
 }
